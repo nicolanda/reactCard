@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactCard/static/css/main.b4730fa1.css",
+    "main.js": "/reactCard/static/js/main.3a89f638.js",
+    "static/media/React-icon.svg.png": "/reactCard/static/media/React-icon.svg.a803cf4e9dc87a2be01e.png",
+    "index.html": "/reactCard/index.html",
+    "main.b4730fa1.css.map": "/reactCard/static/css/main.b4730fa1.css.map",
+    "main.3a89f638.js.map": "/reactCard/static/js/main.3a89f638.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4730fa1.css",
+    "static/js/main.3a89f638.js"
+  ]
+}
